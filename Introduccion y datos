@@ -1,0 +1,8 @@
+INTRODUCCION
+Jacksonville es la ciudad de Estados Unidos con mayor superficie. Es la más grande de las ciudades del estado y la 13.ª de las ciudades más grandes del país. El área metropolitana de Jacksonville tiene más de un millón de residentes. Jacksonville es tambien donde la mitad de mi familia ha vivido por mas de una decada. Existe una amplia gama cultural y etnica en Jacksonville y Florida debido al vertiginoso aumento en la poblacion. Teniendo esto en cuenta junto con el hecho de que mas de la mitad de la poblacion en Estados Unidos son consumidores entusiastas de todo tipo de alimentos, hace de la Florida en general un excelente lugar para abrir un restaurante. Este projecto puede ser interesante para las personas de negocios interesadas en abrir un restaurante en Javksonville. El objetivo de este projecto es analizar cuidadosamente los datos apropiados y encontrar recomendaciones que puedan ser de utilidad para las partes interesadas.
+
+DATOS
+Se utilizaran en este proyecto varias fuentes de datos para resolver el problema.Dichas fuentes son Wikipedia, la libreria de Python GeoPy y Foursquare.
+De Wikipedia se extraera el listados de los vecindarios.
+De GeoPy se obtendran las coordenadas geograficas de cada vecindario.
+Y de Foursquare datos contienen recomendaciones de lugares para todos los vecindarios de Jacksonville y se utilizan para estudiar los lugares populares de diferentes vecindarios.
